@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+}
+
+.social-logo {
+  height: 44px;
+  margin: 0px 10px;
+}
+.social-logo-container {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+.navbar {
+  display: flex;
+}
+.nav-logo {
+  height: 44px;
+  margin-right: 20px;
+}
+.nav-logo img {
+  height: 80px;
+}
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
