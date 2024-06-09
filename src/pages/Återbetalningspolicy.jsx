@@ -2,7 +2,7 @@ import React from "react";
 
 function Återbetalningspolicy() {
   return (
-    <div>
+    <div className="about-container">
       <h1>Återbetalningspolicy</h1>
       <p>
         På Bun Drop strävar vi efter att erbjuda de bästa hamburgarna till våra

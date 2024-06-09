@@ -1,0 +1,140 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Klassisk Bugare",
+      "price": 79,
+      "description": "En klassisk burgare går aldrig fel!",
+      "category": "burgers",
+      "image": "/images/classic.webp"
+    },
+    {
+      "id": 2,
+      "title": "Cheeseburgare",
+      "price": 89,
+      "description": "En saftig cheeseburgare med cheddarost.",
+      "category": "burgers",
+      "image": "/images/cheese.webp"
+    },
+    {
+      "id": 3,
+      "title": "Baconburgare",
+      "price": 99,
+      "description": "Burgare med krispigt bacon.",
+      "category": "burgers",
+      "image": "/images/bacon.webp"
+    },
+    {
+      "id": 4,
+      "title": "Veggieburgare",
+      "price": 89,
+      "description": "En god och nyttig veggieburgare.",
+      "category": "burgers",
+      "image": "/images/veggie.webp"
+    },
+    {
+      "id": 5,
+      "title": "BBQ Burgare",
+      "price": 99,
+      "description": "Burgare med smakrik BBQ-sås.",
+      "category": "burgers",
+      "image": "/images/bbq.webp"
+    },
+    {
+      "id": 6,
+      "title": "Chiliburgare",
+      "price": 95,
+      "description": "Burgare med hetta från chili.",
+      "category": "burgers",
+      "image": "/images/chili.webp"
+    },
+    {
+      "id": 7,
+      "title": "Trippelburgare",
+      "price": 139,
+      "description": "För den riktigt hungrige, trippel kött!",
+      "category": "burgers",
+      "image": "/images/tripple.webp"
+    },
+    {
+      "id": 8,
+      "title": "Pommes",
+      "price": 49,
+      "description": "Krispiga pommes",
+      "category": "sides",
+      "image": "/images/fries.webp"
+    },
+    {
+      "id": 9,
+      "title": "Lökringar",
+      "price": 39,
+      "description": "Friterade lökringar med krispig yta.",
+      "category": "sides",
+      "image": "/images/onion.webp"
+    },
+    {
+      "id": 10,
+      "title": "Sötpotatispommes",
+      "price": 59,
+      "description": "Söta och krispiga sötpotatispommes.",
+      "category": "sides",
+      "image": "/images/sweet.webp"
+    },
+    {
+      "id": 11,
+      "title": "Mozzarellasticks",
+      "price": 39,
+      "description": "Friterade mozzarellasticks.",
+      "category": "sides",
+      "image": "/images/mozarella.webp"
+    },
+    {
+      "id": 12,
+      "title": "Läsk",
+      "price": 20,
+      "description": "LÄSKigt gott!",
+      "category": "drinks",
+      "image": "/images/drink.webp"
+    },
+    {
+      "id": 13,
+      "title": "Mineralvatten",
+      "price": 25,
+      "description": "Friskt mineralvatten.",
+      "category": "drinks",
+      "image": "/images/water.webp"
+    },
+    {
+      "id": 14,
+      "title": "Juice",
+      "price": 30,
+      "description": "Färskpressad juice.",
+      "category": "drinks",
+      "image": "/images/juice.webp"
+    },
+    {
+      "id": 15,
+      "title": "Milkshake",
+      "price": 40,
+      "description": "Krämig milkshake i olika smaker.",
+      "category": "drinks",
+      "image": "/images/milkshake.webp"
+    },
+    {
+      "id": 16,
+      "title": "Kaffe",
+      "price": 15,
+      "description": "Nybryggt kaffe.",
+      "category": "drinks",
+      "image": "/images/coffee.webp"
+    },
+    {
+      "id": 17,
+      "title": "Te",
+      "price": 15,
+      "description": "Värmande te.",
+      "category": "drinks",
+      "image": "/images/tea.webp"
+    }
+  ]
+}

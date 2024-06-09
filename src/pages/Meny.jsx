@@ -1,9 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
+import Menu from "../components/Menu";
 
 function Meny() {
   return (
     <>
-      <h1>Meny</h1>
+      <Menu></Menu>
     </>
   );
 }
