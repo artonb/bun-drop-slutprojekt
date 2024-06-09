@@ -1,15 +1,15 @@
 Klona ner projektet från min github https://github.com/artonb/bun-drop-slutprojekt.git
 
-Följ följande steg i terminalen
+Skriv följande steg i terminalen
 
 Installering:
-npm install
+Skriv följande: npm install
 
-Databas:
-json-server --watch db.json
+För att start databas:
+Skriv följande: json-server --watch db.json
 
-Starta app:
-CTRL + SHIFT + Ö för att skapa ny terminal
-npm run dev
+För att starta appen:
+CTRL + SHIFT + Ö för att öppna ny terminal
+Skriv följande: npm run dev
 
 
